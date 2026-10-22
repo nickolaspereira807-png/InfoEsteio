@@ -17,5 +17,7 @@ Equipe de Desenvolvimento
 Apresentação dos integrantes responsáveis pela idealização, design e execução deste MVP:
  
 NIckolas
+
 guilherme 
+
 gabriel
